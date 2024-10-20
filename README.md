@@ -1,7 +1,13 @@
-Developed a personal assistant tool to effortlessly distill the latest news articles on any topic, 
-delivering concise and insightful \textbf{summaries} at our fingertips. 
-This intelligent assistant boasts a myriad of features, ensuring a seamless and enriching user experience. 
-Tech: {Python}, {OPENAI key}, {News API}, {Streamlit}
+# News Summarizer
+
+• Developed a sophisticated personal assistant tool that distills the latest news articles on diverse topics
+into concise and insightful summaries for quick consumption.
+<br/>
+• Packed with features to guarantee a seamless user experience, allowing retrieval of pertinent details on
+any subject.
+<br/>
+• Enables quick and informed decision-making or staying abreast of current events in a time-efficient
+manner.
 
 ![Screenshot (137)](https://github.com/Jyotishmoy12/news_summarizer/assets/93263133/953a9200-a6f1-4b87-a7cb-3bafb2a82809)
 ![Screenshot (138)](https://github.com/Jyotishmoy12/news_summarizer/assets/93263133/ce5f3186-8c50-4965-b432-e4ac3a4f03d4)
